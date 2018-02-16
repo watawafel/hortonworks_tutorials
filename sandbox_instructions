@@ -8,7 +8,12 @@ docker info
 docker inspect <container id>
 
 ### SSH
-http://172.17.0.2:1080/
+ssh root@172.17.0.2 -p 22
 
-### USER/PWD
+### USER/PWD 
+### ssh
 admin/admin 
+
+### web
+root/hadoop
+
